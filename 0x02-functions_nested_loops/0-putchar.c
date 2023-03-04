@@ -1,5 +1,7 @@
-#include "main.h"
-	/**
+#include "main.h" 
+/* main.h is the prototype*/
+	
+/**
 	 * main - print _putchar
 	 * is written by emma
 	 * Return: 0

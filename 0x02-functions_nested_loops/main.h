@@ -1,6 +1,6 @@
 #ifndef main_h
 	#define main_h
-
+/* main prototype*/
 
 	int _putchar(char);
 	void print_alphabet(void);
