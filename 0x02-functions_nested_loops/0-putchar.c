@@ -1,8 +1,9 @@
 #include "main.h" 
+#include <stdio.h>
 /* main.h is the prototype*/
 	
 /**
-	 * main - print _putchar
+	 * main - prints __putchar
 	 * is written by emma
 	 * Return: 0
 	 */

@@ -1,5 +1,5 @@
-#ifndef main_h
-	#define main_h
+#ifndef _MAIN_H_
+#define _MAIN_H_
 /* main prototype*/
 
 	int _putchar(char);
