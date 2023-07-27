@@ -5,14 +5,12 @@
  * add - add two numbers
  * @x: first number
  * @y: second number
- * Return: addition result
+ * Return: result
  */
 
 int add(int x, int y)
 {
- int result;
-
- result = x + y;
-
- return (result);
+int result;
+result = x + y;
+return (result);
 }
