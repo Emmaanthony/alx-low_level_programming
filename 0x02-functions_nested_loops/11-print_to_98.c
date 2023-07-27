@@ -11,10 +11,10 @@
 void print_to_98(int n)
 {
 
- int x;
- int y;
+int x;
+int y;
 
- if (n < 99)
+if (n < 99)
  {
   for (x = n; x < 99; x++)
   {
